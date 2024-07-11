@@ -151,13 +151,18 @@ body {
         font-family: var(--font_montserrat), serif;
     }
 
+    .presentacion_enlace_subtitulo{
+        font-size: 1.25rem;
+    }
+
     .presentacion_texto {
-        font-size: 1.2rem;
+        font-size: 1em;
     }
 
     .presentacion_enlace_link {
-        width: 100%;
-        font-size: 1.2rem;
+        width: 60%;
+        padding: 10px 0 10px 0;
+        font-size: 1.15rem;
     }
 
     .presentacion_imagen {
@@ -165,8 +170,8 @@ body {
     }
 
     .footer {
-        padding: 20px;
-        font-size: 1.2rem;
+        padding: 10px;
+        font-size: 1rem;
         font-weight: 500;
     }
 }
